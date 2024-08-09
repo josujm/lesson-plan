@@ -22,7 +22,7 @@ import Topic10 from './Component/Topics/Topic10';
 
 // Topic 1
 
-import Inception1 from './Component/Topics/Topic1/';
+import Inception1 from './Component/Topics/Topic1/Inception1';
 import ExploringPriorKnowledge1 from './Component/Topics/Topic1/ExploringPriorKnowledege1';
 import AllowingVenture1 from './Component/Topics/Topic1/AllowingVenture1';
 import EnlighteningProjection1 from './Component/Topics/Topic1/EnlighteningProjection1';
