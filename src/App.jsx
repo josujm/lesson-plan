@@ -4,9 +4,10 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
+
 // Main Page
 
-import MainPage from './Component/MainPage'
+import MainPage from './Component/MainPage';
 import Topic1 from './Component/Topics/Topic1';
 import Topic2 from './Component/Topics/Topic2';
 import Topic3 from './Component/Topics/Topic3';
@@ -18,6 +19,7 @@ import Topic8 from './Component/Topics/Topic8';
 import Topic9 from './Component/Topics/Topic9';
 import Topic10 from './Component/Topics/Topic10';
 
+
 // Topic 1
 
 import Inception1 from './Component/Topics/Topic1/Inception1';
@@ -28,6 +30,7 @@ import ExploringAndResponding1 from './Component/Topics/Topic1/ExploringandRespo
 import AncillaryClues1 from './Component/Topics/Topic1/AncillaryClues1';
 import Closure1 from './Component/Topics/Topic1/Closure1';
 import AppraisingVenture1 from './Component/Topics/Topic1/AppraisingVenture1';
+
  //Topic 2
 
 
@@ -78,13 +81,6 @@ import ExploringPriorKnowledge5 from './Component/Topics/Topic5/ExploringPriorKn
 import EnlighteningProjection5 from './Component/Topics/Topic5/EnlighteningProjection5'
 import ExploringandResponding5 from './Component/Topics/Topic5/ExploringandResponding5'
 import AncillaryClues5 from './Component/Topics/Topic5/AncillaryClues5'
-
-
-
-
-
-
-
 
 
 
